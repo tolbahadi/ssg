@@ -1,0 +1,30 @@
+{{$pages := where .Site.AllPages.Reverse "Section" "slide"}}
+{{$pages = where $pages "Kind" "page"}}
+
+{{with $pages.Prev . }}
+<a id="arrow-prev" style="display: flex;" href="{{.RelPermalink}}">
+  <svg style="width: 16px;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+</a>
+{{end}}
+
+{{with $pages.Next . }}
+<a id="arrow-next" style="display: flex; margin-left: 24px;" href="{{.RelPermalink}}">
+  <svg style="width: 16px;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+</a>
+{{end}}
+
+<script>
+  document.addEventListener('keydown', function(event) {
+    if (event.key === 'ArrowLeft') {
+      const arrowLeftEl = document.getElementById('arrow-prev');
+      if (arrowLeftEl) {
+        arrowLeftEl.click();
+      }
+    } else if (/ArrowRight|Enter|\s/.test(event.key)) {
+      const arrowRightEl = document.getElementById('arrow-next');
+      if (arrowRightEl) {
+        arrowRightEl.click();
+      }
+    }
+  }, false);
+</script>

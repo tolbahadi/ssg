@@ -1,0 +1,22 @@
+{{define "styles"}}
+{{end}}
+
+{{define "content"}}
+<section class="slide">
+  <div class="slide-content" style="padding: 0;">
+    {{.Content}}
+  </div>
+
+    {{$pages := where .Site.AllPages "Section" "slide"}}
+    {{$pages = where $pages "Kind" "page"}}
+    {{$firstSlide := index (first 1 $pages) 0}}
+    <div class="slide-footer" style="display: flex; align-items: center;">
+      <span style="flex: 1;">
+        Presented by Hady Tolba (@tolbahady)
+      </span>
+      <a id="arrow-next" style="display: flex;" href="{{$firstSlide.Permalink}}">
+        <svg style="width: 16px;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+      </a>
+    </div>
+  </section>
+{{end}}
