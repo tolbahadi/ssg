@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/slide/09-ssg-stack-example/</loc>
+    <loc>https://tolbahadi.github.io/ssg/slide/09-ssg-stack-example/</loc>
   </url><url>
-    <loc>http://example.org/slide/01-what-is-static-site/</loc>
+    <loc>https://tolbahadi.github.io/ssg/slide/01-what-is-static-site/</loc>
   </url><url>
-    <loc>http://example.org/slide/02-why-static-sites/</loc>
+    <loc>https://tolbahadi.github.io/ssg/slide/02-why-static-sites/</loc>
   </url><url>
-    <loc>http://example.org/slide/03-good-ss-use-cases/</loc>
+    <loc>https://tolbahadi.github.io/ssg/slide/03-good-ss-use-cases/</loc>
   </url><url>
-    <loc>http://example.org/slide/04-what-is-static-site-generator/</loc>
+    <loc>https://tolbahadi.github.io/ssg/slide/04-what-is-static-site-generator/</loc>
   </url><url>
-    <loc>http://example.org/slide/05-why-ssg/</loc>
+    <loc>https://tolbahadi.github.io/ssg/slide/05-why-ssg/</loc>
   </url><url>
-    <loc>http://example.org/slide/06-ssgs/</loc>
+    <loc>https://tolbahadi.github.io/ssg/slide/06-ssgs/</loc>
   </url><url>
-    <loc>http://example.org/slide/07-static-dynamic-websites/</loc>
+    <loc>https://tolbahadi.github.io/ssg/slide/07-static-dynamic-websites/</loc>
   </url><url>
-    <loc>http://example.org/slide/08-ssg-setup-public/</loc>
+    <loc>https://tolbahadi.github.io/ssg/slide/08-ssg-setup-public/</loc>
   </url><url>
-    <loc>http://example.org/slide/10-thank-you/</loc>
+    <loc>https://tolbahadi.github.io/ssg/slide/10-thank-you/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://tolbahadi.github.io/ssg/categories/</loc>
   </url><url>
-    <loc>http://example.org/slide/</loc>
+    <loc>https://tolbahadi.github.io/ssg/slide/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://tolbahadi.github.io/ssg/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://tolbahadi.github.io/ssg/tags/</loc>
   </url>
 </urlset>

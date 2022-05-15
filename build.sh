@@ -1,0 +1,1 @@
+hugo --destination docs --baseURL https://tolbahadi.github.io/ssg/

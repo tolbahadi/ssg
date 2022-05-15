@@ -2,97 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Static Site Generators,  on My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://tolbahadi.github.io/ssg/</link>
     <description>Recent content in Static Site Generators,  on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://tolbahadi.github.io/ssg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0 - SSG Setup Example - Commercial Website</title>
-      <link>http://example.org/slide/09-ssg-stack-example/</link>
+      <link>https://tolbahadi.github.io/ssg/slide/09-ssg-stack-example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/slide/09-ssg-stack-example/</guid>
+      <guid>https://tolbahadi.github.io/ssg/slide/09-ssg-stack-example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>01 - What is a Static Site?</title>
-      <link>http://example.org/slide/01-what-is-static-site/</link>
+      <link>https://tolbahadi.github.io/ssg/slide/01-what-is-static-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/slide/01-what-is-static-site/</guid>
+      <guid>https://tolbahadi.github.io/ssg/slide/01-what-is-static-site/</guid>
       <description> HTML, CSS, JS and other static resources. Ready to be served by CDN or Nginx. No run or request time dependencies. No Database or API calls.  </description>
     </item>
     
     <item>
       <title>02 - Why Static Sites?</title>
-      <link>http://example.org/slide/02-why-static-sites/</link>
+      <link>https://tolbahadi.github.io/ssg/slide/02-why-static-sites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/slide/02-why-static-sites/</guid>
+      <guid>https://tolbahadi.github.io/ssg/slide/02-why-static-sites/</guid>
       <description> Speed &amp;amp; Performance 🏎  CDN Delivery   Cheap to deploy and host 💰  Can host for free on Github No compute resources   Easy to build and maintain 😎  Use GIT for code &amp;amp; content management   Security 🔐 Scalability 🚀 Good for SEO 🔎 Going back to the basics  </description>
     </item>
     
     <item>
       <title>03 - Good use cases for Static Sites?</title>
-      <link>http://example.org/slide/03-good-ss-use-cases/</link>
+      <link>https://tolbahadi.github.io/ssg/slide/03-good-ss-use-cases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/slide/03-good-ss-use-cases/</guid>
+      <guid>https://tolbahadi.github.io/ssg/slide/03-good-ss-use-cases/</guid>
       <description> Developer Portforlio Documentation sites Blogs Marketting sites  </description>
     </item>
     
     <item>
       <title>04 - What is a Static Site Generator?</title>
-      <link>http://example.org/slide/04-what-is-static-site-generator/</link>
+      <link>https://tolbahadi.github.io/ssg/slide/04-what-is-static-site-generator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/slide/04-what-is-static-site-generator/</guid>
+      <guid>https://tolbahadi.github.io/ssg/slide/04-what-is-static-site-generator/</guid>
       <description> A Process that runs a Build time Takes Code/Templates/Content/Data files Generates static HTML/CSS/JS files Powerful, Flexible &amp;amp; Extendible  </description>
     </item>
     
     <item>
       <title>05 - Why Static Site Generators?</title>
-      <link>http://example.org/slide/05-why-ssg/</link>
+      <link>https://tolbahadi.github.io/ssg/slide/05-why-ssg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/slide/05-why-ssg/</guid>
+      <guid>https://tolbahadi.github.io/ssg/slide/05-why-ssg/</guid>
       <description> For Clients  Speed &amp;amp; Performance Reliability (No run time errors)   For Devs  Better development workflow Easier to maintain Easier to deploy    </description>
     </item>
     
     <item>
       <title>06 - Popular Static Site Generators?</title>
-      <link>http://example.org/slide/06-ssgs/</link>
+      <link>https://tolbahadi.github.io/ssg/slide/06-ssgs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/slide/06-ssgs/</guid>
+      <guid>https://tolbahadi.github.io/ssg/slide/06-ssgs/</guid>
       <description> Hugo (Go lang, extremly fast) Jekyll (Ruby, supported by Github Pages) Eleventy (Nodejs, minimalistic approach) Next.js (Nodejss, uses React) Nuxt (Nodejs, uses Vuejs) Gatsby (Nodejs, uses Graphql) &amp;hellip; and many more  </description>
     </item>
     
     <item>
       <title>07 - Static/Dynamic Websites?</title>
-      <link>http://example.org/slide/07-static-dynamic-websites/</link>
+      <link>https://tolbahadi.github.io/ssg/slide/07-static-dynamic-websites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/slide/07-static-dynamic-websites/</guid>
+      <guid>https://tolbahadi.github.io/ssg/slide/07-static-dynamic-websites/</guid>
       <description></description>
     </item>
     
     <item>
       <title>08 - SSG Setup Example - Non Commercial Website</title>
-      <link>http://example.org/slide/08-ssg-setup-public/</link>
+      <link>https://tolbahadi.github.io/ssg/slide/08-ssg-setup-public/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/slide/08-ssg-setup-public/</guid>
+      <guid>https://tolbahadi.github.io/ssg/slide/08-ssg-setup-public/</guid>
       <description></description>
     </item>
     
     <item>
       <title>10 - Thank you!</title>
-      <link>http://example.org/slide/10-thank-you/</link>
+      <link>https://tolbahadi.github.io/ssg/slide/10-thank-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/slide/10-thank-you/</guid>
+      <guid>https://tolbahadi.github.io/ssg/slide/10-thank-you/</guid>
       <description></description>
     </item>
     
