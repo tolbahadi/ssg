@@ -6,6 +6,6 @@ description = "Use Github pages for free"
 {{% slide 
   title = "SSG Setup Example - Commercial Website"
 %}}
-  ![](/images/ssg-stack.png)
+  ![](/ssg/images/ssg-stack.png)
 
 {{% /slide %}}

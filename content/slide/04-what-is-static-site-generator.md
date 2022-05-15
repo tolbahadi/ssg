@@ -11,6 +11,6 @@ description = "A process that generates static sites from template and content f
   * Generates static HTML/CSS/JS files
   * Powerful, Flexible & Extendible
 
-  ![](/images/ssg-04.jpg)
+  ![](/{{.Site.BaseURL}}/images/ssg-04.jpg)
 
 {{% /slide %}}

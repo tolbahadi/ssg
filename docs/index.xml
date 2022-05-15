@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://tolbahadi.github.io/ssg/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>0 - SSG Setup Example - Commercial Website</title>
-      <link>https://tolbahadi.github.io/ssg/slide/09-ssg-stack-example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tolbahadi.github.io/ssg/slide/09-ssg-stack-example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>01 - What is a Static Site?</title>
       <link>https://tolbahadi.github.io/ssg/slide/01-what-is-static-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -84,6 +75,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tolbahadi.github.io/ssg/slide/08-ssg-setup-public/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>09 - SSG Setup Example - Commercial Website</title>
+      <link>https://tolbahadi.github.io/ssg/slide/09-ssg-stack-example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tolbahadi.github.io/ssg/slide/09-ssg-stack-example/</guid>
       <description></description>
     </item>
     

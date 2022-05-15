@@ -7,5 +7,5 @@ subtitle = "presented by Hady Tolba (@tolbahady)"
 {{< intro-slide 
   title = "Static Side Generators (SSGs)"
 >}}
-    <img style="max-width: 100%;" src="/images/whatssg.png" alt="">
+    <img style="max-width: 100%;" src="/ssg/images/whatssg.png" alt="">
 {{< /intro-slide >}}
